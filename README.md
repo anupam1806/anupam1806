@@ -37,12 +37,12 @@
 <a href = 'https://www.github.com/anupam1806'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>  </a> 
 
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-  
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=anupam1806&count_private=true&show_icons=true&theme=react" />
 <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=anupam1806&theme=react" />
 <img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=anupam1806&theme=react-dark" />
   
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
