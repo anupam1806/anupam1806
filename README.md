@@ -43,4 +43,12 @@
 
 
 <br>
+  
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=anupam1806&count_private=true&show_icons=true&theme=react" />
+
+
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=anupam1806&theme=react" />
+
+
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=anupam1806&theme=react-dark" />
 <!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer> -->
